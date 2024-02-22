@@ -1,3 +1,4 @@
 Resolusi: 
 - konsisten untuk belajar 4 jam setiap hari
 - membuat portfolio untuk bekerja
+- belajar react js
